@@ -122,7 +122,7 @@ Building an Expected Goals (xG) model end to end:
 **Clone the repo**
 ```bash
 git clone https://github.com/Muhammadatef/football-data-analytics.git
-cd complete-football-analytics
+cd football-data-analytics
 ```
 
 **Create a virtual environment**
