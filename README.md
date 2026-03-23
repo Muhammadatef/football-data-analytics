@@ -1,6 +1,5 @@
 # Complete Football Analytics in Python
-
-My personal implementation of [McKay Johns'](https://mckayjohns.com) **Complete Football Analytics in Python** course — covering everything from data collection to machine learning models and professional-grade visualizations.
+ Implementation of [McKay Johns'](https://mckayjohns.com) **Complete Football Analytics in Python** course — covering everything from data collection to machine learning models and professional-grade visualizations.
 
 ---
 
